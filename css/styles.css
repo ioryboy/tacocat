@@ -32,7 +32,7 @@ p {
   margin: auto;
   max-width: 100%;
   overflow: auto;
-  padding: 0 20px;
+  padding:  0px;
 }
 
 .text-primary {
@@ -104,7 +104,7 @@ p {
 
 #navbar h1 {
   float: left;
-  padding-top: 20px;
+  padding-left: 2px;
 }
 
 #navbar ul {
@@ -118,7 +118,7 @@ p {
 
 #navbar ul li a {
   display: block;
-  padding: 20px;
+  padding: 30px;
   text-align: center;
 }
 
@@ -133,7 +133,7 @@ p {
 
 #welcome {
   background: url('../imagenes/tacocat.jpg') no-repeat center center/cover;
-  height: 600px;
+  height: auto;
 }
 
 #welcome .welcome-content {

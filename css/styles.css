@@ -30,13 +30,13 @@ p {
 /* container mantendrá el contenido centrado y con un máximo de ancho */
 .container {
   margin: auto;
-  max-width: auto;
+  max-width: 100%;
   overflow: auto;
   padding: 0 20px;
 }
 
 .text-primary {
-  color:#2542e5;
+  color:#3cdbf0;
 }
 
 .lead {
@@ -139,7 +139,7 @@ p {
 #welcome .welcome-content {
   color: #fff;
   text-align: center;
-  padding-top: 170px;
+  padding-top: 100px;
 }
 
 #welcome .welcome-content h1 {
